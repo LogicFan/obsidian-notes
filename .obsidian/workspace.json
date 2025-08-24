@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7b275c1416b40530",
+        "id": "2f66beb1b26cf26f",
         "type": "tabs",
         "children": [
           {
-            "id": "89274865c86b8e3b",
+            "id": "49623f57c5b2185c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "UIUC/CS498 DLH/Introduction.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Introduction"
             }
           }
         ]
@@ -161,8 +165,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0205573edbb95143",
+  "active": "49623f57c5b2185c",
   "lastOpenFiles": [
+    "Untitled.md",
+    "UIUC/CS498 DLH/Introduction.md",
+    "Untitled 1.md",
+    "一生一芯F.md",
+    "UIUC/CS498 DLH",
+    "Untitled",
+    "Pasted image 20250812163755.png",
+    "Pasted image 20250812163748.png",
+    "Pasted image 20250812163713.png",
+    "Pasted image 20250812163459.png",
+    "YSYX",
+    "CPGEE/Untitled.md",
+    "CPGEE",
     "UIUC"
   ]
 }
