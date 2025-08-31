@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "82015c242b8e5605",
+        "id": "aa86cfd6986b5958",
         "type": "tabs",
         "children": [
           {
-            "id": "0df534282983ea0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UIUC/CS498 DLH/2a. Health Data.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2a. Health Data"
-            }
-          },
-          {
-            "id": "bd0e44dc78c3818a",
+            "id": "8f5b556cbf77ff1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "2b. Health Data Standards"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "dbc47f7ab7564d4e",
@@ -181,7 +167,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0205573edbb95143",
+  "active": "8f5b556cbf77ff1f",
   "lastOpenFiles": [
     "UIUC/CS498 DLH/2a. Health Data.md",
     "UIUC/CS498 DLH/2b. Health Data Standards.md",
