@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2a. Health Data"
             }
+          },
+          {
+            "id": "bd0e44dc78c3818a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UIUC/CS498 DLH/2b. Health Data Standards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2b. Health Data Standards"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "dbc47f7ab7564d4e",
@@ -167,10 +181,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0df534282983ea0e",
+  "active": "0205573edbb95143",
   "lastOpenFiles": [
-    "UIUC/CS498 DLH/1. Introduction.md",
     "UIUC/CS498 DLH/2a. Health Data.md",
+    "UIUC/CS498 DLH/2b. Health Data Standards.md",
+    "UIUC/CS498 DLH/1. Introduction.md",
     "Untitled 1.base",
     "Untitled.base",
     "YSYX/一生一芯F.md",
