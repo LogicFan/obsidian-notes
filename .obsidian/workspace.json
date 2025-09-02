@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b8044327e6a7efcf",
+        "id": "3ee6e406af331e98",
         "type": "tabs",
         "children": [
           {
-            "id": "be30a7032bc6f3ef",
+            "id": "6ac6fb3198f1a971",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "UIUC/CS498 DLH/3a. Supervised Learning.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3a. Supervised Learning"
+              "title": "New tab"
             }
           }
         ]
@@ -78,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 216.5
   },
   "right": {
     "id": "dbc47f7ab7564d4e",
@@ -167,18 +162,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be30a7032bc6f3ef",
+  "active": "6ac6fb3198f1a971",
   "lastOpenFiles": [
-    "UIUC/CS498 DLH/3c. Evaluation Metrics.md",
     "UIUC/CS498 DLH/3b. Unsupervised Learning.md",
     "UIUC/CS498 DLH/3a. Supervised Learning.md",
-    "UIUC/CS498 DLH/2b. Health Data Standards.md",
+    "CPGEE/201 英语.md",
     "Untitled.base",
+    "UIUC/CS498 DLH/3c. Evaluation Metrics.md",
+    "UIUC/CS498 DLH/2b. Health Data Standards.md",
     "UIUC/CS498 DLH/2a. Health Data.md",
     "UIUC/CS498 DLH/1. Introduction.md",
     "Untitled 1.base",
     "YSYX/一生一芯F.md",
-    "CPGEE/201 英语.md",
     "Untitled 1.md",
     "UIUC/CS498 DLH",
     "Untitled",
