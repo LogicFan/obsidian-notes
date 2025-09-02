@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3ee6e406af331e98",
+        "id": "3ea6dc581c614635",
         "type": "tabs",
         "children": [
           {
-            "id": "6ac6fb3198f1a971",
+            "id": "58cba942b4f19ded",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "UIUC/CS498 DLH/3b. Unsupervised Learning.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "3b. Unsupervised Learning"
             }
           }
         ]
@@ -162,16 +166,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ac6fb3198f1a971",
+  "active": "58cba942b4f19ded",
   "lastOpenFiles": [
-    "UIUC/CS498 DLH/3b. Unsupervised Learning.md",
     "UIUC/CS498 DLH/3a. Supervised Learning.md",
-    "CPGEE/201 英语.md",
-    "Untitled.base",
-    "UIUC/CS498 DLH/3c. Evaluation Metrics.md",
     "UIUC/CS498 DLH/2b. Health Data Standards.md",
     "UIUC/CS498 DLH/2a. Health Data.md",
     "UIUC/CS498 DLH/1. Introduction.md",
+    "Untitled.base",
+    "UIUC/CS498 DLH/3b. Unsupervised Learning.md",
+    "CPGEE/201 英语.md",
+    "UIUC/CS498 DLH/3c. Evaluation Metrics.md",
     "Untitled 1.base",
     "YSYX/一生一芯F.md",
     "Untitled 1.md",
