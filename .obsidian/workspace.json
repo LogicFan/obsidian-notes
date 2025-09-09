@@ -11,10 +11,14 @@
             "id": "538b2e20bd164556",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "UIUC/CS498 DLH/5. Embedding.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "5. Embedding"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5
+    "width": 216.5,
+    "collapsed": true
   },
   "right": {
     "id": "dbc47f7ab7564d4e",
@@ -164,20 +169,20 @@
   },
   "active": "538b2e20bd164556",
   "lastOpenFiles": [
-    "UIUC/CS498 DLH/5a. General Embedding.md",
-    "CPGEE/201 英语.md",
+    "UIUC/CS498 DLH/2b. Health Data Standards.md",
+    "UIUC/CS498 DLH/2a. Health Data.md",
+    "UIUC/CS498 DLH/5. Embedding.md",
     "UIUC/CS498 DLH/5b. EHR Embedding.md",
-    "Untitled.base",
     "UIUC/CS498 DLH/4. Deep Neural Network.md",
+    "UIUC/CS498 DLH/3c. Evaluation Metrics.md",
+    "UIUC/CS498 DLH/3b. Unsupervised Learning.md",
+    "UIUC/CS498 DLH/3a. Supervised Learning.md",
+    "CPGEE/201 英语.md",
+    "Untitled.base",
     "UIUC/CS447 NLP/CS447_Literature_Review__TOPIC.pdf",
     "UIUC/CS447 NLP/CS447_Literature_Review__TOPIC.zip",
     "UIUC/CS447 NLP",
     "UIUC/New folder",
-    "UIUC/CS498 DLH/3c. Evaluation Metrics.md",
-    "UIUC/CS498 DLH/3b. Unsupervised Learning.md",
-    "UIUC/CS498 DLH/3a. Supervised Learning.md",
-    "UIUC/CS498 DLH/2b. Health Data Standards.md",
-    "UIUC/CS498 DLH/2a. Health Data.md",
     "UIUC/CS498 DLH/1. Introduction.md",
     "Untitled 1.base",
     "YSYX/一生一芯F.md",
