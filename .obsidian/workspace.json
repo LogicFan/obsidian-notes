@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a207e5ec4d147a49",
+        "id": "393c2d14a2e3c36c",
         "type": "tabs",
         "children": [
           {
-            "id": "538b2e20bd164556",
+            "id": "671897ee124e1ffd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CPGEE/201 英语.md",
+                "file": "UIUC/CS498 DLH/6. Convolutional Neural Networks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "201 英语"
+              "title": "6. Convolutional Neural Networks"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 216.5,
-    "collapsed": true
+    "width": 216.5
   },
   "right": {
     "id": "dbc47f7ab7564d4e",
@@ -167,8 +166,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "538b2e20bd164556",
+  "active": "671897ee124e1ffd",
   "lastOpenFiles": [
+    "CPGEE/201 英语.md",
+    "UIUC/CS498 DLH/6. Convolutional Neural Networks.md",
+    "UIUC/CS498 DLH/6_20250915131021.png",
+    "UIUC/CS498 DLH/6_20250915130732.png",
+    "UIUC/CS498 DLH/6_20250915100356.png",
+    "UIUC/CS498 DLH/6_20250915100314.png",
+    "UIUC/CS498 DLH/6_20250915100110.png",
+    "Untitled.base",
     "UIUC/CS498 DLH/5. Embedding.md",
     "UIUC/CS498 DLH/2b. Health Data Standards.md",
     "UIUC/CS498 DLH/2a. Health Data.md",
@@ -177,8 +184,6 @@
     "UIUC/CS498 DLH/3c. Evaluation Metrics.md",
     "UIUC/CS498 DLH/3b. Unsupervised Learning.md",
     "UIUC/CS498 DLH/3a. Supervised Learning.md",
-    "CPGEE/201 英语.md",
-    "Untitled.base",
     "UIUC/CS447 NLP/CS447_Literature_Review__TOPIC.pdf",
     "UIUC/CS447 NLP/CS447_Literature_Review__TOPIC.zip",
     "UIUC/CS447 NLP",
