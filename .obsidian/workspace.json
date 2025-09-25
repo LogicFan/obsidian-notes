@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8cdcde374a094a5f",
+        "id": "1a9413ca619eb83d",
         "type": "tabs",
         "children": [
           {
-            "id": "5535c6aa865ff6ca",
+            "id": "cfb468484ef20a3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "11a. Memory Networks"
             }
+          },
+          {
+            "id": "f2bd99be99325e75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UIUC/CS598 DLH/11b. Transformer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11b. Transformer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -166,9 +181,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0205573edbb95143",
+  "active": "f2bd99be99325e75",
   "lastOpenFiles": [
     "UIUC/CS598 DLH/11a. Memory Networks.md",
+    "UIUC/CS598 DLH/11b. Transformer.md",
+    "UIUC/CS598 DLH/11_20250924224205.png",
     "UIUC/CS598 DLH/10. Graph Neural Network.md",
     "Progress.md",
     "UIUC/CS598 DLH/9. Attention.md",
@@ -190,7 +207,6 @@
     "UIUC/CS598 DLH/7_20250916085918.png",
     "UIUC/CS598 DLH/6. Convolutional Neural Networks.md",
     "UIUC/CS598 DLH/6_20250915131021.png",
-    "UIUC/CS598 DLH/6_20250915130732.png",
     "Untitled.base",
     "UIUC/CS598 DLH/5. Embedding.md",
     "UIUC/CS598 DLH/2a. Health Data.md",
